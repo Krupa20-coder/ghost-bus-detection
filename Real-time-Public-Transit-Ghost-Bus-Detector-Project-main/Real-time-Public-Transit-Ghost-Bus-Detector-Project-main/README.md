@@ -169,9 +169,9 @@ Open [http://localhost:3000](http://localhost:3000)
 
 👩‍💻 Author
 
-Swarangi Aher
+Kesireddy Krupa Dhaneswari
 
-🎓 Bachelor’s in Information Technology
+🎓 Bachelor's of Computer Applications
 
 💡 Passionate about Web Development & Data Analytics
 
